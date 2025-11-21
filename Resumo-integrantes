@@ -1,0 +1,5 @@
+Gabriel miranda rm559102
+Gustavo Berlanga RM555298
+Gustavo henrique rm556712
+
+Resumo da solução: A PrepIT é uma plataforma desenvolvida em Java com Spring Boot que apoia recrutadores na preparação de entrevistas, sem substituir o trabalho humano. O sistema permite cadastrar e gerenciar vagas, montar roteiros de entrevistas personalizados e acessar trilhas de capacitação sobre boas práticas de recrutamento, como vieses inconscientes e avaliação comportamental. Ele organiza o fluxo de preparação, padroniza processos e reduz retrabalho, garantindo que o recrutador tenha maior eficiência e clareza durante a condução das entrevistas. Embora ofereça automação e estrutura, a decisão final permanece sempre com o ser humano, reforçando o papel estratégico do recrutador no processo seletivo.
